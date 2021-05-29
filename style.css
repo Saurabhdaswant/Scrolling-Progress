@@ -1,0 +1,7 @@
+.scrollingLine {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 1rem;
+  background-color: red;
+}
